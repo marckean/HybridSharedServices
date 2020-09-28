@@ -6,7 +6,9 @@ leveraging Shared Services in Azure and separate Prod & Non-Prod environments.
 Both Prod & Non-Prod can talk to Shared Services, but Prod & Non-Prod are
 completely isolated from one another.
 
-![](media/0bf92089414af4755474ef89316793fd.jpg)
+![](media/Screenshot 2020-09-28 102255.jpg)
+
+From on-prem there's separate access to each of the 3 routing domains.
 
 ## Deployment
 
