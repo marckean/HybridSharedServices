@@ -7,7 +7,7 @@ separate **Prod** & **Non-Prod** environments. Both **Prod** & **Non-Prod** can
 talk **to Shared Services**, but **Prod** & **Non-Prod** are completely isolated
 from one another.
 
-![](media/Screenshot 2020-09-28 102255.jpg)
+![](media/Screenshot2020-09-28102255.jpg)
 
 From on-prem there's separate & isolated access to each of the 3 routing
 domains.
